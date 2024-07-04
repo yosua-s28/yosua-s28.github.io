@@ -1,6 +1,6 @@
 // Set the countdown target time to today at 21:00
 var now = new Date();
-var countDownDate = new Date(now.getFullYear(), now.getMonth(), now.getDate(), 21, 35, 0, 0).getTime();
+var countDownDate = new Date(now.getFullYear(), now.getMonth(), now.getDate(), 21, 30, 0, 0).getTime();
 
 // Function to pad numbers with a leading zero if necessary
 function padNumber(number) {
